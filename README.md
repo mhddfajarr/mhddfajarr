@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1wi_uuc-UmhXRAcoLBZHPAM0c4KlCd-Y5/view?usp=sharing](https://drive.google.com/file/d/1wi_uuc-UmhXRAcoLBZHPAM0c4KlCd-Y5/view?usp=sharing)
 
-<h3 align="left">💬 Let's Connect With me!</h3>
+<h3 align="left">Let's Connect!</h3>
 <p align="left">
 <a href="https://linkedin.com/in/muhammad-fajar-ash-shiddiq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-fajar-ash-shiddiq" height="30" width="40" /></a>
 <a href="https://instagram.com/mhddfajar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mhddfajar" height="30" width="40" /></a>

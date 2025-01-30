@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Fajar</h1>
 <h3 align="center">I am passionate about web development, with a strong focus on back-end development.</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-ai-image%2Ftechnology-computer-business-coding-office-person-development-working-developer-datum-lapt_254231619.htm&psig=AOvVaw3KzETs9IFaM1omyII8OY6p&ust=1738297248601000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJjSl4TMnIsDFQAAAAAdAAAAABAJ">
+<img align="right" alt="coding" width="400" src="https://img.freepik.com/premium-photo/technology-computer-business-coding-office-person-development-working-developer-datum-lapt_1064589-235094.jpg">
 
 - 🌱 I’m currently learning **VueJS, Golang**
 

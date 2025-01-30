@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://mhddfajarr.github.io/Portofolio/](https://mhddfajarr.github.io/Portofolio/)
 
-- 💬 Ask me about **PHP, Laravel**
+- 💬 Ask me about **PHP, Laravel, Vue Js, .Net**
 
 - 📫 How to reach me **mhddfajar@gmail.com**
 

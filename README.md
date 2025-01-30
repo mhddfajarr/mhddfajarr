@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Muhammad Fajar</h1>
 <h3 align="center">I am passionate about web development, with a strong focus on back-end development.</h3>
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-ai-image%2Ftechnology-computer-business-coding-office-person-development-working-developer-datum-lapt_254231619.htm&psig=AOvVaw3KzETs9IFaM1omyII8OY6p&ust=1738297248601000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJjSl4TMnIsDFQAAAAAdAAAAABAJ">
 
 - 🌱 I’m currently learning **VueJS, Golang**
 
 - 👨‍💻 All of my projects are available at [https://mhddfajarr.github.io/Portofolio/](https://mhddfajarr.github.io/Portofolio/)
 
-- 💬 Ask me about **PHP, Laravel, Vue Js, .Net**
+- 💬 Ask me about **PHP, Laravel, Vue Js, ASP.NET**
 
 - 📫 How to reach me **mhddfajar@gmail.com**
 

@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **mhddfajar@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1wi_uuc-UmhXRAcoLBZHPAM0c4KlCd-Y5/view](https://drive.google.com/file/d/1wi_uuc-UmhXRAcoLBZHPAM0c4KlCd-Y5/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1wi_uuc-UmhXRAcoLBZHPAM0c4KlCd-Y5/view](https://drive.google.com/file/d/1urW-mb8DD0XVme35Ow36alKWu8Z3ITWW/view?usp=sharing)
 
 <h3 align="left">Let's Connect!</h3>
 <p align="left">
